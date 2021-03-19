@@ -42,7 +42,7 @@
        if(parents[i]==i) { //타고 올라가서 인덱스와 parents가 동일하다면,
            return i;
        }
-       return find(nums[i]); //parents가 다른 인덱스를 가리킨다면, 타고 올라가자.
+       return find(parents[i]); //parents가 다른 인덱스를 가리킨다면, 타고 올라가자.
    }
    ```
 
@@ -80,6 +80,4 @@
 
    
 
-*cf. SWEA_3289 / JUNGOL_1863*
-
-​	
+*cf. SWEA_3289 / JUNGOL_1863*	
