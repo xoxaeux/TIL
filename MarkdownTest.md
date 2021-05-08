@@ -2,7 +2,7 @@
 
 #### - Tool : Typora / windows
 
-
+</br>
 
 ## 1. font size
 
@@ -10,7 +10,7 @@
 
 ex) ## 1. font size
 
-
+</br>
 
 ## 2. Source Code
 
@@ -26,7 +26,7 @@ public class main(){
 
 ex) ```java
 
-
+</br>
 
 ## 3. Paragraph
 
@@ -38,9 +38,11 @@ ex) ```java
 
 ex) > Hello, ~
 
-
+</br>
 
 ## 4. Ordered List(ol)
+
+</br>
 
 1. Dreams
 
@@ -50,6 +52,8 @@ ex) > Hello, ~
 
 #### 1. + (Space) + Text
 ex) 1. Developer
+
+</br>
 
 ## 5. Unordered List(ul)
 
@@ -62,14 +66,14 @@ ex) 1. Developer
 #### - + (Space) + Text
 ex) - I love it.
 
-
+</br>
 
 ## 6. Line
 ---
 
 ex) -*3
 
-
+</br>
 
 ## 7. Bold/Italic Text
 
@@ -81,6 +85,13 @@ This is *Italic* text.
 ex) **Bold** / *Italic*
 ```
 
+</br>
+
+## 8. New Line
+
+```
+</br>
+```
 
 
 
